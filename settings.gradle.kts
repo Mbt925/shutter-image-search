@@ -14,7 +14,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "ShutterImageSearch"
+rootProject.name = "shutter-image-search"
 include(":app")
 include(":networking")
 include(":service")
